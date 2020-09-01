@@ -1,2 +1,1 @@
-# exome_seq
-Exome Sequencing
+# Exome Sequencing 
